@@ -1,25 +1,25 @@
-# tcnn
+# snn
 
-Toy convolutional neural network for handwritten digit recognition.
+A simple neural network for handwritten digit recognition.
 
 ## Quick start
 
-It is recommanded of using the python virtual environment.
+It is recommended to use the python virtual environment.
 
 ```
 python -m venv venv
 ```
 
-Install the dependencies.
+Install dependencies.
 
 ```
-pip install notebook numpy
+pip install -r requirements.txt
 ```
 
-Run the notebook.
+Run the jupyter notebook.
 
 ```
 jupyter notebook
 ```
 
-Or you can run the notebook in vscode with jupyter extension.
+Or you can run the notebook inside vscode with the Jupyter extension.
